@@ -12,4 +12,8 @@ Course link: https://www.udemy.com/course/data-analysis-with-excel-pivot-tables/
 8. Among employees with >=$100k Base Pay in 2012, Did any employee earn more than 50% of their salary from Other Pay?
 9. Group any titles including the word "Curator" into a new category called "Curator". How many employees held some sort of Curator position in either 2012 or 2013? Among those, who earned the highest average base pay?
 
+### Analysis 1
+![Analysis 1](https://i.imgur.com/XcHYw1m.png)
 
+### Analysis 2
+![Analysis 2](https://i.imgur.com/AO6HaJ7.png)
