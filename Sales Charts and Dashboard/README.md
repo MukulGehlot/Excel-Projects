@@ -10,6 +10,6 @@ Based on the dataset, pivot tables and charts were created to analyse the follow
 -   Sales profit by City
 -   Sales by Product Type
 
-[Coursera Project Link](https://www.coursera.org/projects/create-charts-dashboards-using-microsoft-excel)
+🔗[Coursera Project Link](https://www.coursera.org/projects/create-charts-dashboards-using-microsoft-excel)
 
 [![Screenshot (1)](https://user-images.githubusercontent.com/75059347/168962687-621ca333-4f1d-418e-bee4-9ca77120153c.png)](https://user-images.githubusercontent.com/75059347/168962687-621ca333-4f1d-418e-bee4-9ca77120153c.png)
